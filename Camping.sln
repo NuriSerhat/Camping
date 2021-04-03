@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyOf3", "MultiplyOf3\MultiplyOf3.csproj", "{036D0EC8-08F5-4DF1-80EE-8197357FBCCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "RecapDemo1\RecapDemo1.csproj", "{002A4705-E5A6-4B45-AA10-147E95A84335}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{036D0EC8-08F5-4DF1-80EE-8197357FBCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{036D0EC8-08F5-4DF1-80EE-8197357FBCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{036D0EC8-08F5-4DF1-80EE-8197357FBCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002A4705-E5A6-4B45-AA10-147E95A84335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002A4705-E5A6-4B45-AA10-147E95A84335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002A4705-E5A6-4B45-AA10-147E95A84335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002A4705-E5A6-4B45-AA10-147E95A84335}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
